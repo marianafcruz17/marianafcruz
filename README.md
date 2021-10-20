@@ -13,7 +13,7 @@
 <i>Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></i><br>
 </b>
 <br>
-<a href="linkedin.com/in/mariana-cruz-449480110" target="_blank">
+<a href="http://linkedin.com/in/mariana-cruz-449480110" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
