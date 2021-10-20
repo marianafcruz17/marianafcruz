@@ -29,18 +29,14 @@
 <hr>
 
 
-<a align="left" href=https://github.com/marianafcruz17>
-    <img bottom="150em" src="https://github-readme-stats.vercel.app/api/?username=marianafcruz17&show_icons=true&include_all_commits=true&count_private=true"/>
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianafcruz17&layout=compact)](https://github.com/marianafcruz17/github-readme-stats)
 
 <a href="https://github.com/marianafcruz17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafcruz17&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafcruz17&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/marianafcruz17">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianafcruz17&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianafcruz17&show_icons=true&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
 <br />
