@@ -28,9 +28,6 @@
 </div>
 <hr>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianafcruz17&layout=compact)](https://github.com/marianafcruz17/github-readme-stats)
-
 <a href="https://github.com/marianafcruz17">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafcruz17&hide_langs_below=1" />
 </a>
