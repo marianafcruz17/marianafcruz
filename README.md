@@ -1,4 +1,4 @@
-### Hello hello! I'm <b><i color="prink">Mariana Cruz!</i></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
+### Hello hello! I'm <b><i>Mariana Cruz!</i></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
 
 <p>
   <em>
