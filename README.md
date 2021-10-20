@@ -35,6 +35,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianafcruz17&layout=compact)](https://github.com/marianafcruz17/github-readme-stats)
 
+<a href="https://github.com/marianafcruz17">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafcruz17&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/marianafcruz17">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianafcruz17&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
 <br />
 <br />
 <div align="center">
