@@ -5,7 +5,7 @@
    My name is Mariana Cruz, I'm 23 years old, I live in Brasilia in Brazil.
     I am a student of <b>Computer Engineering </b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and derivatives, I am extremely in love and obsessed with the world of technology, which made me pursue this career.
     My main interests in the area are Full Stack developer, AI, the Javascript programming language is also part of this set.
-    I am currently a Junior Business Analyst on the <b>Central IT</b> team 💪.
+    I am currently a Junior Business Analyst on the <a href="https://centralit.com.br/"><b>Central IT</b></a> team 💪.
 
 <br/>
 <div align="center">
