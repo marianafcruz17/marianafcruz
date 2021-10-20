@@ -28,9 +28,12 @@
 </div>
 <hr>
 
+
 <a align="left" href=https://github.com/marianafcruz17>
     <img bottom="150em" src="https://github-readme-stats.vercel.app/api/?username=marianafcruz17&show_icons=true&include_all_commits=true&count_private=true"/>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianafcruz17&layout=compact)](https://github.com/marianafcruz17/github-readme-stats)
 
 <br />
 <br />
