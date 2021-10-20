@@ -1,4 +1,4 @@
-### Hello hello! I'm [Mariana Cruz!] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
+### Hello hello! I'm [Mariana Cruz!](linkedin.com/in/mariana-c-449480110) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
 
 <p>
   <em>
