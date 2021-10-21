@@ -1,31 +1,44 @@
-### Hello hello! I'm <i>[Mariana Cruz!](https://instagram.com/marianafcruz)</i> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
+# Welcome&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+
+### Hi there, I'm Mariana Cruz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+
+##### BIO
+
+ - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I'm a student of Computer Engineering and derivatives.
+ - 💼 I'm currently working at <a href="https://centralit.com.br/">**Central IT**</a> as Junior Business Analyst.
+ - :book: Learning all about **AI Azure** and **Power BI**.
+ - :mag: Interested on Full Stack developer, AI, the Javascript programming language, love to study and apply programming language.
+ - :zap: Creating side projects all the time to validate ideas or just for fun.
+ - 💻 HTML, CSS, Javascript, Java, C, C#, Python, COBOL, Prolog, git, MySQL, SQL Server, PostgreSQL
+
+<div align="center">
+    <b>
+        <i>Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></i><br>
+    </b>
+    <p>
+        <a href="http://linkedin.com/in/mariana-cruz-449480110" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://www.instagram.com/marianafcruz" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+        <a href="https://twitter.com/mari_fcruz" target="_blank">
+            <img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
+        </a>
+    </p>
+</div>
+
+<hr>
+
+##### Badges Collection
 
 <p>
-  <em>
-   My name is Mariana Cruz, I'm 23 years old, I live in Brasilia in Brazil.
-    I am a student of <b>Computer Engineering </b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and derivatives, I am extremely in love and obsessed with the world of technology, which made me pursue this career.
-    My main interests in the area are Full Stack developer, AI, the Javascript programming language is also part of this set.
-    I am currently a Junior Business Analyst on the <a href="https://centralit.com.br/"><b>Central IT</b></a> team 💪.
+  <!-- Scrum Foundation Professional Certificate -->
+  <a href="https://www.credly.com/badges/f5920000-7fa3-4a55-a084-d75b7328d286/public_url">
+    <img src="https://images.credly.com/size/340x340/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png" width="120px">
+  </a>
+</p>
 
-<br/>
-<div align="center">
-<b>
-<i>Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></i><br>
-</b>
-<br>
-<a href="http://linkedin.com/in/mariana-cruz-449480110" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/marianafcruz" target="_blank">
-	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://twitter.com/mari_fcruz" target="_blank">
-	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
-</a>
-
-</div>
 <hr>
 
 <a href="https://github.com/marianafcruz17">
@@ -35,8 +48,3 @@
 <a href="https://github.com/marianafcruz17">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianafcruz17&show_icons=true&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
-
-<br />
-<br />
-<div align="center">
-</div>
