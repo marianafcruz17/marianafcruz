@@ -34,7 +34,7 @@
 
 <p>
   <!-- Scrum Foundation Professional Certificate -->
-  <a href="https://www.credly.com/badges/f5920000-7fa3-4a55-a084-d75b7328d286/public_url">
+  <a href="https://drive.google.com/file/d/1_hLmoq-ifzbTl4QMdPlgjimMiQtwsPTu/view?usp=sharing">
     <img src="https://images.credly.com/size/340x340/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png" width="120px">
   </a>
 </p>
